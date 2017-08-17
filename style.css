@@ -1,0 +1,135 @@
+.bluetext {
+	color:#19537D;
+}
+body{
+	background:#AAD2E8;
+}
+.coverh {
+	background:url('https://i.ytimg.com/vi/BVuu-rbmlBc/maxresdefault.jpg');
+	align-items:center;
+}
+.coverh img {
+	display:block;
+	size:100px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#del-countdown h2{
+  color: #fff;
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: 10px;
+  text-transform:uppercase;
+  font-weight: bold;
+  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1),
+  0 1px 3px rgba(0,0,0,.3),0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+  }
+#del-countdown h4 {
+	 text-align: center;
+	 font-family:'Ubuntu',sans-serif;
+  font-size: 25px;
+  letter-spacing: 10px;
+  text-transform:uppercase;
+}
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://image.freepik.com/free-photo/notebook-on-wooden-desk_438-19316438.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+#del-countdown{
+  width: 850px;
+  margin: 15% auto;
+}
+#clock span{
+  float: left;
+  text-align: center;
+  font-size: 84px;
+  margin: 0 2.5%;
+  color: #fff;
+  padding: 20px;
+  width: 20%;
+  border-radius: 20px;
+  box-sizing: border-box;
+ }
+ #clock span:nth-child(1){
+  background: #15389B;
+}
+#clock span:nth-child(2){
+  background: #15389B;
+}
+#clock span:nth-child(3){
+  background: #15389B;
+}
+#clock span:nth-child(4){
+  background: #15389B;
+}
+
+#clock:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+#units span{
+  float: left;
+  width: 25%;
+  text-align: center;
+  margin-top: 30px;
+  color: #ddd;
+  text-transform: uppercase;
+  font-size: 20px;
+  letter-spacing: 2px;
+  text-shadow: 1px 1px 1px rgba(10,10,10, 0.7);
+}
+.cover2 {
+	background:url('https://orig11.deviantart.net/dda3/f/2013/291/5/0/wallpaper_fountain_pen__fueller_by_dasflon-d6qy3o7.jpg');
+	position: relative;
+    width:100%;
+  background-attachment:scroll;
+}
+
+
+.service-icon i {
+    color: #73a7ee;
+    font-size: 23px;
+	animation-duration: 2s;
+    animation-name: slidein;
+    }
+.heading h4 {
+	padding:10px;
+	font-size:20px;
+	font-family:'PT Serif',serif;
+	text-transform:uppercase;
+	text-align:center;
+	color:blue;
+}
+.heading h2 {
+	padding:10px;
+	font-size:30px;
+	font-family:'Montserrat',sans-serif;
+	text-transform:uppercase;
+	text-align:center;
+	color:#4B3ABE;
+}
+.service-desc h4 {
+	padding-left:25px;
+	font-size:25px;
+	font-family:'Montserrat',sans-serif;
+	text-transform:uppercase;
+	color:blue;
+}
+.service-desc h5 {
+	padding-left:25px;
+	font-size:16px;
+	font-family:'PT Serif',serif;
+	text-transform:uppercase;
+	font-style:italic;
+	color:#1a7499;
+}
+.service-desc p {
+	font-family:'Dosis',sans-serif;
+	color:#428ce2;
+	}
